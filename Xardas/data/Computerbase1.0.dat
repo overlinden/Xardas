@@ -1,0 +1,2 @@
+RSS_URL = http://www.computerbase.de/rss/news.xml
+REFRESH_INTERVAL = 10

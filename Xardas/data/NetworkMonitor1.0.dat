@@ -1,0 +1,65 @@
+NUM_HOSTS = 6
+
+# Service block start
+#SERVICE_NAME_0 = IPFire - Firewall
+#SERVICE_HOST_0 = ipfire.verl
+#SERVICE_PORT_0 = 444
+#CHECK_INTERVAL_0 = 1
+#CHECK_TIMEOUT_0 = 
+# Service block end
+
+# Service block start
+SERVICE_NAME_0 = Firewall (IPFire)
+SERVICE_HOST_0 = ipfire.verl
+SERVICE_PORT_0 = 444
+CHECK_INTERVAL_0 = 1
+CHECK_TIMEOUT_0 = 5
+# Service block end
+
+# Service block start
+SERVICE_NAME_1 = Internet Gateway (SpeedPort)
+SERVICE_HOST_1 = speedport.ip
+SERVICE_PORT_1 = 443
+CHECK_INTERVAL_1 = 1
+CHECK_TIMEOUT_1 = 5
+# Service block end
+
+# Service block start
+SERVICE_NAME_2 = Online check (Google)
+SERVICE_HOST_2 = google.de
+SERVICE_PORT_2 = 80
+CHECK_INTERVAL_2 = 1
+CHECK_TIMEOUT_2 = 50
+# Service block end
+
+# Service block start
+SERVICE_NAME_3 = ESXi server (sheldon.verl)
+SERVICE_HOST_3 = sheldon.verl
+SERVICE_PORT_3 = 902
+CHECK_INTERVAL_3 = 5
+CHECK_TIMEOUT_3 = 25
+# Service block end
+
+# Service block start
+SERVICE_NAME_4 = SVN server (penny.verl)
+SERVICE_HOST_4 = penny.verl
+SERVICE_PORT_4 = 3690
+CHECK_INTERVAL_4 = 10
+CHECK_TIMEOUT_4 = 25
+# Service block end
+
+# Service block start
+SERVICE_NAME_5 = RDP server (howard.verl)
+SERVICE_HOST_5 = howard.verl
+SERVICE_PORT_5 = 3389
+CHECK_INTERVAL_5 = 10
+CHECK_TIMEOUT_5 = 25
+# Service block end
+
+# Service block start
+SERVICE_NAME_6 = TOR server (leonard.verl)
+SERVICE_HOST_6 = leonard.verl
+SERVICE_PORT_6 = 9001
+CHECK_INTERVAL_6 = 10
+CHECK_TIMEOUT_6 = 25
+# Service block end

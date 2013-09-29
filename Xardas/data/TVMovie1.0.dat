@@ -1,0 +1,3 @@
+PROGRAM_NOW_URL = http://www.tvmovie.de/rss/tvjetzt.xml
+PROGRAM_2015_URL = http://www.tvmovie.de/rss/tv2015.xml
+REFRESH_INTERVAL = 10

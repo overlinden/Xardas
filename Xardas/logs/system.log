@@ -1,0 +1,113 @@
+2013.09.29 10:25:16 	 PropertyStorage     	Info   	Restoring properites from file ./data/gui.dat
+2013.09.29 10:25:16 	 GUI                 	Info   	Initializing gui
+2013.09.29 10:25:16 	 MessageManager      	Info   	Creating message handler for System
+2013.09.29 10:25:17 	 XardasCore          	Info   	System startup
+2013.09.29 10:25:35 	 PropertyStorage     	Info   	Saving properites to file ./data/gui.dat
+2013.09.29 10:25:35 	 XardasCore          	Info   	System shutdown
+2013.09.29 10:28:26 	 PropertyStorage     	Info   	Restoring properites from file ./data/gui.dat
+2013.09.29 10:28:26 	 GUI                 	Info   	Initializing gui
+2013.09.29 10:28:26 	 MessageManager      	Info   	Creating message handler for System
+2013.09.29 10:28:26 	 XardasCore          	Info   	System startup
+2013.09.29 10:28:48 	 PluginManager       	Info   	Loading plugin file ./plugins/golem.jar
+2013.09.29 10:28:58 	 PropertyStorage     	Info   	Saving properites to file ./data/gui.dat
+2013.09.29 10:28:58 	 XardasCore          	Info   	System shutdown
+2013.09.29 10:49:28 	 PropertyStorage     	Info   	Restoring properites from file ./data/gui.dat
+2013.09.29 10:49:28 	 GUI                 	Info   	Initializing gui
+2013.09.29 10:49:28 	 MessageManager      	Info   	Creating message handler for System
+2013.09.29 10:49:28 	 XardasCore          	Info   	System startup
+2013.09.29 10:49:42 	 PluginManager       	Info   	Loading plugin file ./plugins/XardasGolem.jar
+2013.09.29 10:49:42 	 MessageManager      	Info   	Creating message handler for Golem
+2013.09.29 10:49:42 	 PluginController    	Info   	Creating plugin selector entries
+2013.09.29 10:49:42 	 PluginManager       	Info   	Starting plugin Golem
+2013.09.29 10:49:42 	 PropertyStorage     	Info   	Restoring properites from file ./data/Golem1.0.dat
+2013.09.29 10:49:42 	 Golem               	Error  	Error parsing setting file
+2013.09.29 10:50:44 	 PluginManager       	Info   	Stopping plugin Golem
+2013.09.29 10:50:44 	 MessageHandler      	Info   	Sending message System -> Golem: Shutdown request
+2013.09.29 10:50:44 	 MessageHandler      	Info   	Incoming message for Golem
+2013.09.29 10:50:44 	 PluginController    	Info   	Removing plugin selector entries
+2013.09.29 10:50:44 	 MessageManager      	Info   	Removing message handler for Golem
+2013.09.29 10:50:44 	 PluginManager       	Info   	Unloaded plugin file ./plugins/XardasGolem.jar
+2013.09.29 10:50:44 	 PropertyStorage     	Info   	Saving properites to file ./data/gui.dat
+2013.09.29 10:50:44 	 XardasCore          	Info   	System shutdown
+2013.09.29 10:58:42 	 PropertyStorage     	Info   	Restoring properites from file ./data/gui.dat
+2013.09.29 10:58:42 	 GUI                 	Info   	Initializing gui
+2013.09.29 10:58:42 	 MessageManager      	Info   	Creating message handler for System
+2013.09.29 10:58:42 	 XardasCore          	Info   	System startup
+2013.09.29 10:58:57 	 PluginManager       	Info   	Loading plugin file ./plugins/XardasNetworkmonitor.jar
+2013.09.29 10:58:57 	 MessageManager      	Info   	Creating message handler for NetworkMonitor
+2013.09.29 10:58:57 	 PluginController    	Info   	Creating plugin selector entries
+2013.09.29 10:58:57 	 PluginManager       	Info   	Starting plugin NetworkMonitor
+2013.09.29 10:58:57 	 PropertyStorage     	Info   	Restoring properites from file ./data/NetworkMonitor1.0.dat
+2013.09.29 10:59:00 	 NetworkMonitor      	Info   	Running tests for 6 services
+2013.09.29 10:59:00 	 NetworkMonitor      	Error  	Error while testing service Firewall (IPFire)
+2013.09.29 10:59:00 	 NetworkMonitor      	Error  	Error while testing service Internet Gateway (SpeedPort)
+2013.09.29 10:59:00 	 NetworkMonitor      	Error  	Error while testing service ESXi server (sheldon.verl)
+2013.09.29 10:59:00 	 NetworkMonitor      	Error  	Error while testing service SVN server (penny.verl)
+2013.09.29 10:59:00 	 NetworkMonitor      	Error  	Error while testing service RDP server (howard.verl)
+2013.09.29 10:59:00 	 NetworkMonitor      	Warning	One or more services are unreachable
+2013.09.29 10:59:19 	 PluginManager       	Info   	Loading plugin file ./plugins/XardasComputerbase.jar
+2013.09.29 10:59:19 	 MessageManager      	Info   	Creating message handler for ComputerBase
+2013.09.29 10:59:19 	 PluginController    	Info   	Creating plugin selector entries
+2013.09.29 10:59:19 	 PluginManager       	Info   	Starting plugin ComputerBase
+2013.09.29 10:59:19 	 PropertyStorage     	Info   	Restoring properites from file ./data/ComputerBase1.0.dat
+2013.09.29 10:59:19 	 ComputerBase        	Error  	Error parsing setting file
+2013.09.29 10:59:52 	 PluginManager       	Info   	Loading plugin file ./plugins/XardasTvmovie.jar
+2013.09.29 10:59:52 	 MessageManager      	Info   	Creating message handler for TVMovie
+2013.09.29 10:59:52 	 PluginController    	Info   	Creating plugin selector entries
+2013.09.29 10:59:52 	 PluginManager       	Info   	Starting plugin TVMovie
+2013.09.29 10:59:52 	 PropertyStorage     	Info   	Restoring properites from file ./data/TVMovie1.0.dat
+2013.09.29 10:59:52 	 TVMovie             	Info   	Refreshing data
+2013.09.29 11:00:00 	 NetworkMonitor      	Info   	Running tests for 3 services
+2013.09.29 11:00:00 	 NetworkMonitor      	Error  	Error while testing service Firewall (IPFire)
+2013.09.29 11:00:00 	 NetworkMonitor      	Error  	Error while testing service Internet Gateway (SpeedPort)
+2013.09.29 11:00:00 	 NetworkMonitor      	Warning	One or more services are unreachable
+2013.09.29 11:00:13 	 PluginManager       	Info   	Loading plugin file ./plugins/XardasGolem.jar
+2013.09.29 11:00:13 	 MessageManager      	Info   	Creating message handler for Golem
+2013.09.29 11:00:13 	 PluginController    	Info   	Creating plugin selector entries
+2013.09.29 11:00:13 	 PluginManager       	Info   	Starting plugin Golem
+2013.09.29 11:00:13 	 PropertyStorage     	Info   	Restoring properites from file ./data/Golem1.0.dat
+2013.09.29 11:00:13 	 Golem               	Error  	Error parsing setting file
+2013.09.29 11:00:19 	 PluginManager       	Info   	Stopping plugin TVMovie
+2013.09.29 11:00:19 	 MessageHandler      	Info   	Sending message System -> TVMovie: Shutdown request
+2013.09.29 11:00:19 	 MessageHandler      	Info   	Incoming message for TVMovie
+2013.09.29 11:00:19 	 PluginController    	Info   	Removing plugin selector entries
+2013.09.29 11:00:19 	 MessageManager      	Info   	Removing message handler for TVMovie
+2013.09.29 11:00:19 	 PluginManager       	Info   	Unloaded plugin file ./plugins/XardasTvmovie.jar
+2013.09.29 11:00:19 	 PluginManager       	Info   	Stopping plugin NetworkMonitor
+2013.09.29 11:00:19 	 MessageHandler      	Info   	Sending message System -> NetworkMonitor: Shutdown request
+2013.09.29 11:00:19 	 MessageHandler      	Info   	Incoming message for NetworkMonitor
+2013.09.29 11:00:19 	 PluginController    	Info   	Removing plugin selector entries
+2013.09.29 11:00:19 	 MessageManager      	Info   	Removing message handler for NetworkMonitor
+2013.09.29 11:00:19 	 PluginManager       	Info   	Unloaded plugin file ./plugins/XardasNetworkmonitor.jar
+2013.09.29 11:00:19 	 PluginManager       	Info   	Stopping plugin Golem
+2013.09.29 11:00:19 	 MessageHandler      	Info   	Sending message System -> Golem: Shutdown request
+2013.09.29 11:00:19 	 MessageHandler      	Info   	Incoming message for Golem
+2013.09.29 11:00:19 	 PluginController    	Info   	Removing plugin selector entries
+2013.09.29 11:00:19 	 MessageManager      	Info   	Removing message handler for Golem
+2013.09.29 11:00:19 	 PluginManager       	Info   	Unloaded plugin file ./plugins/XardasGolem.jar
+2013.09.29 11:00:19 	 PluginManager       	Info   	Stopping plugin ComputerBase
+2013.09.29 11:00:19 	 MessageHandler      	Info   	Sending message System -> ComputerBase: Shutdown request
+2013.09.29 11:00:19 	 MessageHandler      	Info   	Incoming message for ComputerBase
+2013.09.29 11:00:19 	 PluginController    	Info   	Removing plugin selector entries
+2013.09.29 11:00:19 	 MessageManager      	Info   	Removing message handler for ComputerBase
+2013.09.29 11:00:19 	 PluginManager       	Info   	Unloaded plugin file ./plugins/XardasComputerbase.jar
+2013.09.29 11:00:19 	 PropertyStorage     	Info   	Saving properites to file ./data/gui.dat
+2013.09.29 11:00:19 	 XardasCore          	Info   	System shutdown
+2013.09.29 11:02:04 	 PropertyStorage     	Info   	Restoring properites from file ./data/gui.dat
+2013.09.29 11:02:04 	 GUI                 	Info   	Initializing gui
+2013.09.29 11:02:04 	 MessageManager      	Info   	Creating message handler for System
+2013.09.29 11:02:04 	 XardasCore          	Info   	System startup
+2013.09.29 11:02:11 	 PluginManager       	Info   	Loading plugin file ./plugins/XardasGolem.jar
+2013.09.29 11:02:11 	 MessageManager      	Info   	Creating message handler for Golem
+2013.09.29 11:02:11 	 PluginController    	Info   	Creating plugin selector entries
+2013.09.29 11:02:11 	 PluginManager       	Info   	Starting plugin Golem
+2013.09.29 11:02:11 	 PropertyStorage     	Info   	Restoring properites from file ./data/Golem1.0.dat
+2013.09.29 11:02:11 	 Golem               	Info   	Refreshing data
+2013.09.29 11:02:16 	 PluginManager       	Info   	Stopping plugin Golem
+2013.09.29 11:02:16 	 MessageHandler      	Info   	Sending message System -> Golem: Shutdown request
+2013.09.29 11:02:16 	 MessageHandler      	Info   	Incoming message for Golem
+2013.09.29 11:02:16 	 PluginController    	Info   	Removing plugin selector entries
+2013.09.29 11:02:16 	 MessageManager      	Info   	Removing message handler for Golem
+2013.09.29 11:02:16 	 PluginManager       	Info   	Unloaded plugin file ./plugins/XardasGolem.jar
+2013.09.29 11:02:16 	 PropertyStorage     	Info   	Saving properites to file ./data/gui.dat
+2013.09.29 11:02:16 	 XardasCore          	Info   	System shutdown
