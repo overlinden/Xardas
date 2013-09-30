@@ -10,3 +10,6 @@ the plugins.
 
 The package includes the base system and some example plugins like: a newsreader, a tv program scheduler, a network 
 monitor and text to speech output.
+
+
+The speech output module requires the freeTTS library (http://freetts.sourceforge.net/) licensed with the BSD license (http://freetts.sourceforge.net/license.terms).
